@@ -4,7 +4,7 @@ Simple binary decision tree classifier and regressor.
 Splits for classification are based on Gini impurity. Splits for
 regression are based on variance.
 
-Author: CS445 Instructor and Ben McCray
+Author: Ben McCray
 Version:
 
 """
